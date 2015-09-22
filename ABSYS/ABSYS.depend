@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1420111389 source:f:\actual gaming.... ;)\spoj\absys\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

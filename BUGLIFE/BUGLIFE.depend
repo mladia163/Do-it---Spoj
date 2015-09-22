@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1420152239 source:f:\actual gaming.... ;)\spoj\buglife\main.cpp
+	<iostream>
+	<queue>
+	<stdio.h>
+	<bits/c++io.h>
+	<algorithm>
+	<stdlib.h>
+	<string.h>
+

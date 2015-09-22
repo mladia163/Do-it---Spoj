@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1419166797 source:f:\actual gaming.... ;)\spoj\pqueue\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

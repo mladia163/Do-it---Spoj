@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419854371 source:f:\actual gaming.... ;)\spoj\notatri\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+

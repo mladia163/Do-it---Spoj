@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1417556001 source:f:\actual gaming.... ;)\spoj\anarc09a\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	<string.h>
+	<cstdio>
+	<stdio.h>
+

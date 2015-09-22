@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1419617576 source:f:\actual gaming.... ;)\spoj\psychon\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<math.h>
+

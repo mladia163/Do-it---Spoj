@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1417727146 source:f:\actual gaming.... ;)\spoj\sbank\main.cpp
+	<iostream>
+	<set>
+	<map>
+	<string>
+	<cstdio>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415208923 source:g:\spoj\hotels\main.cpp
+	<iostream>
+	<stdio.h>
+

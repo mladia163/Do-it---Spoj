@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1419147938 source:f:\let it be coding man\spoj\etf\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

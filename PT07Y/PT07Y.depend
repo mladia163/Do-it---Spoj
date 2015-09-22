@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1420037740 source:f:\actual gaming.... ;)\spoj\pt07y\main.cpp
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<stack>
+	<map>
+
